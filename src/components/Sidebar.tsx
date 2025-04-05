@@ -1,3 +1,6 @@
+import React from 'react';
+import { Cloud, Film, Mail, Shield, Settings, Brain, FlaskRound as Flask, Menu } from 'lucide-react';
+
 const services = [
   { name: 'Cloud', icon: Cloud, category: 'Nextcloud' },
   { name: 'Streaming', icon: Film, category: 'Jellyfin' },
